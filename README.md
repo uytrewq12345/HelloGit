@@ -1,1 +1,1 @@
-GitHubのチュートリアル
+Practice of GitHub
